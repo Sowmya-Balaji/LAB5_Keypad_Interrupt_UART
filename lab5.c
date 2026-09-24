@@ -1,3 +1,5 @@
+/* Keypad Interrupt + UART + Switch controlled RGB*/
+
 #include <stdint.h>
 #include "inc/tm4c123gh6pm.h"
 
